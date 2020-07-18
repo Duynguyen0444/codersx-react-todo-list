@@ -1,0 +1,13 @@
+.wrapper {
+    display: inline;
+}
+.icon {
+    font-size: 15px;
+    padding: 10px;
+}
+
+.wrapper-icon {
+    display: flex;
+    flex-direction: column;
+
+}
